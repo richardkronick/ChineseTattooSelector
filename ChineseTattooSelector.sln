@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2048
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChineseTatooSelector", "ChineseTatooSelector\ChineseTatooSelector.csproj", "{2C5F0E75-8929-4AEA-BB67-B9FE4B9F8CCC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChineseTattooSelector", "ChineseTatooSelector\ChineseTattooSelector.csproj", "{2C5F0E75-8929-4AEA-BB67-B9FE4B9F8CCC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
